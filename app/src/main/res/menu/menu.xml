@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/buah"
+        android:title="@string/daftar_buah"
+        android:icon="@drawable/strawberry"/>
+
+    <item
+        android:id="@+id/sayur"
+        android:title="@string/daftar_sayur"
+        android:icon="@drawable/carrot"/>
+
+    <item
+        android:id="@+id/makanan"
+        android:title="@string/daftar_makanan"
+        android:icon="@drawable/burger"/>
+</menu>
